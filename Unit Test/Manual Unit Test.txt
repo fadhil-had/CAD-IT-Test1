@@ -1,0 +1,16 @@
+# Unit Test
+
+## 1. Fungsi get All
+Fungsi get All diharapkan mampu mengambil semua data maka seharusnya dia memiliki fungsi SQL untuk select all data
+
+## 2. Fungsi get detail
+Fungsi ini diharapkan mampu untuk mengambil detail dari salah satu data saja, sehingga dia harus memiliki fungsi untuk mengambil dengan parameter tertentu
+
+## 3. Fungsi add Movie
+Harus memiliki fungsi SQL untuk insert data baru dengan semua parameter terisi dan metode nya adalah post
+
+## 4. Fungsi update Movie
+Harus memiliki fungsi untuk update dengan metode put
+
+## 5. Fungsi delete Movie
+Harus memiliki fungsi untuk delete dengan metode delete
